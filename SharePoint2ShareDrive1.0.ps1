@@ -275,7 +275,7 @@ $L_title.location                = New-Object System.Drawing.Point(195,31)
 $L_title.Font                    = New-Object System.Drawing.Font('Microsoft Sans Serif',16,[System.Drawing.FontStyle]([System.Drawing.FontStyle]::Italic))
 
 $script:L_description            = New-Object system.Windows.Forms.Label
-$L_description.text              = "To connect your SharePoint like a share drive on your computer,`nplease follow the steps below to enable this feature."
+$L_description.text              = "To connect your SharePoint as network drive on your computer, please follow `nthe steps below to enable this feature."
 $L_description.AutoSize          = $true
 $L_description.width             = 25
 $L_description.height            = 20
