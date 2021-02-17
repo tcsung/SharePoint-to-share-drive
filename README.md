@@ -1,7 +1,6 @@
-# Use SharePoint as share folder in your Windows computer.
+# Use SharePoint as network drive on Windows computer.
 
-If you like SharePoint, then you probably love to use it as a share drive on your Windows computer.
+If you like SharePoint, then you probably love to use it as a Network drive on your Windows computer, this tool can help you complete that.
 
-No user guide, nothing.  If you still using Windows 7 then try to install Powershell 5.1 before use it.  Also suggest to compile the script to exe with ps2exe.ps1
-Just try and let me know if you are facing any trouble.
+For first time run the script, it may not work because the registry update for IE is not yet functioning, try close the everything and run the script again.  If you still using Windows 7 then try to install Powershell 5.1 before use it.
 
