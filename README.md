@@ -13,6 +13,6 @@ The idea for this script is to use Internet Explorer to complete the SharePoint 
 ## Known issues and solutions
 1. If this is first time you run this script, it may not work because the registry update to the IE is not yet functioning, please try close the everything and run the script again.
 2. If you found the network drive was malfunction after a period of time, try to use the same script again, probably because your SharePoint login session was expired.
-3. If you cannot map the drive but you ensure that already login the SharePoint in your IE, then probably your folder path was input wrongly.  Try double check:
+3. If you cannot map the drive but you ensure that already login the SharePoint in your IE, then probably your folder path was input wrongly, try double check:
 - Whether the folder name contain spare, if so change the space character (' ') to %20
 - Whether the folder name contain dot sign, if so change the dot character ('.') to %2E
