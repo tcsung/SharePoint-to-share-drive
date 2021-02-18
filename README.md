@@ -5,7 +5,7 @@
 If you like SharePoint, then you probably seeking to use it like a network drive, this tool can accomplish this on your Windows computer. 
 
 ## Requirement
-Windows 10 computer, if computer still using Windows 7 then try to install Powershell 5.1  and also .Net4 before use it.  Never test for Windows 8 but should be fine if you have Powershell 5.1 installed.
+Windows 10 computer, if computer still using Windows 7 then try to install Powershell 5.1  and also .Net 4 before use it.  Never test for Windows 8 but should be fine if you have Powershell 5.1 installed.
 
 ## How to
 The idea for this script is to use Internet Explorer to complete the SharePoint authentication.  First, in the script GUI you need to provide your SharePoint address and then click 'Run Internet Explorer', after you login your SharePoint then go back to this tools, provide the share folder path to let script help you to map the network drive.
