@@ -2,7 +2,7 @@
 
 
 ## Preface
-If you like SharePoint, then you probably seeking to use it as a network drive, this tool can help you accomplish on your Windows computer. 
+If you like SharePoint, then you probably seeking to use it like a network drive, this tool can accomplish this on your Windows computer. 
 
 ## Requirement
 Windows 10, If computer still using Windows 7 then try to install Powershell 5.1  and also .Net4 before use it.  Never test for Windows 8 but should be fine if you have Powershell 5.1 installed.
