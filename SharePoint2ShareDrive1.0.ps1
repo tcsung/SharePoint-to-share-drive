@@ -190,10 +190,6 @@ function map_drive{
 
 	if($go_map_drive -eq $true){
 		$path = $Listbox1.text
-		if($info.producttype -match 'Windows 7'){
-			net use $share_drive \\192.168.0.250\abc | out-null
-			start-sleep -Seconds 2
-		}
 		(New-object -ComObject WScript.Network).MapNetworkDrive("$share_drive","$path",$true)
 		if($?){
 			$L_result.text = ""
